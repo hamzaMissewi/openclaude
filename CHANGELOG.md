@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/hamzaMissewi/openclaude/compare/v0.3.0...v0.3.1) (2026-04-15)
+
+
+### Bug Fixes
+
+* correct PermissionResult import path ([f7a69e0](https://github.com/hamzaMissewi/openclaude/commit/f7a69e006be7b1e157ea22da762e754961d38f0f))
+
 ## [0.3.0](https://github.com/Gitlawb/openclaude/compare/v0.2.3...v0.3.0) (2026-04-14)
 
 
